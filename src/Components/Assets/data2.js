@@ -7,28 +7,28 @@ import product__10 from './product__10.jpg'
 let data_product = [
     {
         id:1,
-        name:"Degenet",
+        name:"THE FATE OF AFRICA",
         image:product__7,
         new_price:10000,
         old_price:12000,
     },
     {
         id:2,
-        name:"Rotus a la moule",
+        name:"MAMA CAN'T RAISE NO MAN",
         image:product__8,
         new_price:11000,
         old_price:12000,
     },
     {
         id:3,
-        name:"Rolex",
+        name:"LOOKING FOR GRACE",
         image:product__9,
         new_price:18000,
         old_price:24000,
     },
     {
         id:4,
-        name:"French Burger",
+        name:"MY LIFE AS A CHAMELEON",
         image:product__10,
         new_price:8000,
         old_price:15000,

@@ -1,0 +1,124 @@
+
+
+[
+    {
+        "id":1,
+        "name":"  LEFT TO TELL ",
+        "new_price":10000,
+        "old_price":12000
+    },
+    {
+        "id":2,
+        "name":"THE GIRL WHO SMILED BEADS",
+        "new_price":11000,
+        "old_price":12000
+    },
+    {
+        "id":3,
+        "name":"THE MAN EATERS OF TSAVO",
+        "new_price":18000,
+        "old_price":24000
+    },
+    {
+        "id":4,
+        "name":"90 MINUTES AT ENTEBBE",
+        "new_price":8000,
+        "old_price":15000
+    },
+    {
+        "id":5,
+        "name":"THE BLACK BIBILICAL HERITAGE",
+        "new_price":12000,
+        "old_price":15000
+    },
+    {
+        "id":6,
+        "name":"HAILE SELASSIE",
+        "new_price":10000,
+        "old_price":14000
+    },
+    {
+        "id":7,
+        "name":"THE FATE OF AFRICA",
+        "new_price":12000,
+        "old_price":15000
+    },
+    {
+        "id":8,
+        "name":"MAMA CANT RAISE NO MAN",
+        "new_price":8000,
+        "old_price":12000
+    },
+    {
+        "id":9,
+        "name":"LOOKING FOR GRACE",
+        "new_price":18000,
+        "old_price":25000
+    },
+    {
+        "id":10,
+        "name":"MY LIFE AS A CHAMELEON",
+        "new_price":22500,
+        "old_price":25000
+    },
+    {
+        "id":11,
+        "name":"A SPELL OF GOOD THINGS",
+        "new_price":11000,
+        "old_price":14000
+    },
+    {
+        "id":12,
+        "name":"HIS WIFE ONLY",
+        "new_price":11500,
+        "old_price":14000
+    },
+    {
+        "id":13,
+        "name":"HISTORY OF A DIFFICULT CHILD",
+        "new_price":19000,
+        "old_price":15000
+    },
+    {
+        "id":14,
+        "name":"WE WERE GIRLS ONCE",
+        "new_price":12000,
+        "old_price":15000
+    },
+    {
+        "id":15,
+        "name":"PERIOD PAIN",
+        "new_price":18500,
+        "old_price":25000
+    },
+    {
+        "id":16,
+        "name":"RECLAIMING THE SOIL",
+        "new_price":19500,
+        "old_price":31000
+    },
+    {
+        "id":17,
+        "name":"THE CONCUBINE",
+        "new_price":19000,
+        "old_price":28000
+    },
+    {
+        "id":18,
+        "name":"I DIDN'T DO IT FOR YOU",
+        "new_price":18000,
+        "old_price":28000
+    },
+    {
+        "id":19,
+        "name":"INSIDE HOTEL RWANDA",
+        "new_price":16500,
+        "old_price":38000
+    },
+    {
+        "id":20,
+        "name":"PREVAIL",
+        "new_price":21000,
+        "old_price":33500
+    }
+]

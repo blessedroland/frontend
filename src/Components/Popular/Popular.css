@@ -4,7 +4,9 @@
     align-items: center;
     gap: 10px;
     margin: 30px;
-    background: #92a3a3;
+    background-image: url(../Assets/images.jpeg);
+    background-repeat:no-repeat;
+    background-size: cover;
 
 }
 .popular h1{

@@ -6,7 +6,7 @@ import { Item } from '../Item/Item'
 export const Menu = () => {
   return (
     <div className='menu'>
-        <h1>FOODS Menu</h1>
+        <h1>LIBRARY</h1>
         <hr />
         <div className="menu-item">
             {products.map((item,i)=>{

@@ -3,9 +3,6 @@
 }
 .item img{
     width: 200px;
-    padding: 10px;
-    border: 1px solid white;
-    background: rgb(191, 218, 191);
     border-radius: 15px;
 }
 .item p{

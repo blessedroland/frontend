@@ -18,7 +18,7 @@ export const LoginSingup = (props) => {
       </p>
       <div className="loginsignup-agree">
         <input type="checkbox" name='' id=''/>
-        <p>By continuig, I agree to the terms of use & privacy policy</p>
+        <p>By continuing, I agree to the terms of use & privacy policy</p>
       </div>
       </div>
     </div>

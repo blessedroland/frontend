@@ -40,7 +40,7 @@ export const Footer = () => {
             <img className="im3" src={pay} alt=""/>
         </div>
         <div className="copyright">
-            <p>© 2024, group1 </p>
+            <p>© 2024, EA LIBRARIES</p>
         </div>
     </div>
   )

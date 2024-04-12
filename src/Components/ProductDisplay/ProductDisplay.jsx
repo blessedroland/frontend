@@ -25,18 +25,20 @@ export const ProductDisplay = (props) => {
                 <div className="productDisplay-right-price-old">{product.old_price} Ugx</div>
             </div>
             <div className="productDisplay-right-description">
-            Our Food is usually of plant, animal, or fungal origin and contains essential nutrients such as 
-            <br/>carbohydrates, fats, proteins, vitamins, or minerals. The substance is ingested by an organism 
-            <br/>and assimilated by the organism's cells to provide energy, maintain life, or stimulate growth.
+            African literature is an expansive and vibrant tapestry woven from the rich cultural heritage, 
+            <br/>struggles, and triumphs of the African continent. It encompasses a diverse range of literary genres
+             <br/> the complexities of African societies and their experiences 
+           
+            
             </div>
             <button onClick={()=>{addToCart(product.id)}}>ADD TO CART</button>
             <div>
-                <p>About <strong>Breakfast, </strong> Often called '<strong>the most important meal of the day
-                </strong>', and for good reason. As the name suggests, Breakfast breaks the overnight fasting period. </p>
+                <p> Great <strong> African , </strong> literature '<strong>came from the experiences of those 
+                </strong>'who were strong enough to tell the stories others couldn't </p>
                 <br/>
-                <p>About <strong>Lunch, </strong> in the most countries, it is <strong>the second 
-                meal of the day, after breackfast and before dinner. </strong> A lunch can be 
-                cold (bread and fruit) or hot (a full meal, like a dinner).</p>
+                <p>Here <strong> at EA libraries, </strong> we believe<strong> Great reads 
+                make Great minds, theres something for everyone. </strong>
+                </p>
             </div>
         </div>
     </div>

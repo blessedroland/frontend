@@ -1,7 +1,7 @@
-import product__1 from './product__1.jpg'
-import product__2 from './product__2.jpg'
-import product__3 from './product__3.jpg'
-import product__4 from './product__4.jpg'
+import product__1 from './https://m.media-amazon.com/images/I/611Q3oKPd1L._AC._SR360,460.jpg'
+import product__2 from './https://m.media-amazon.com/images/I/91O5zGyu2EL._AC._SR360,460.jpg'
+import product__3 from './https://m.media-amazon.com/images/I/81QRO8JSMrL._AC._SR360,460.jpg'
+import product__4 from './https://m.media-amazon.com/images/I/71nE37te2fL._AC_SR480%2C570_.jpg'
 
 
 let data_product = [

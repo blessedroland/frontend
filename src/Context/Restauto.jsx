@@ -19,7 +19,19 @@ const RestautoMenu = (props) => {
         setCartItems((prev) => ({...prev,[itemId]:prev[itemId]-1}))
     }
 
-    const contextValue = {products,cartItems,addToCart,removeFromCart};
+    const addToBadge = () => {
+        let totalItem = 0;
+        for (const item in cartItems){
+            if(cartItems[item]> 0){
+                totalItem+= cartItems[item];
+            }
+        }
+        return totalItem;
+    }
+
+    
+
+    const contextValue = {addToBadge,products,cartItems,addToCart,removeFromCart};
 
     return(
         <Restauto.Provider value={contextValue}>

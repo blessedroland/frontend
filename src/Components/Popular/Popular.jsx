@@ -6,7 +6,7 @@ import { Item } from '../Item/Item'
 export const Popular = () => {
   return (
     <div className='popular'>
-        <h1>TOP SELLERS</h1>
+        <h1>🔥TRENDING 🔥</h1>
         <hr />
         <div className="popular-item">
             {data2.map((item,i)=>{

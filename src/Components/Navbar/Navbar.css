@@ -7,7 +7,11 @@ img{
     justify-content: space-around;
     padding: 16px;
     box-shadow: 0 1px 3px -2px black;
-    position: sticky;
+    position: sticky
+;
+background-image: url(../Assets/images.jpeg);
+background-repeat: no-repeat;
+background-size: cover;
 }
 
 .nav-logo{
@@ -75,6 +79,6 @@ img{
     margin-left: -57px;
     border-radius: 11px;
     font-size: 14px;
-    background: #086e05;
+    background: #8fb48d;
     color: white;
 }
